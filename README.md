@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I'm a passionate student at VIT with a keen intere
 ## 🔗 Connect with Me:  
 <p align="left">  
 <a href="https://linkedin.com/in/soumyadeep-chakravarti-03237028a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="linkedin" /></a>  
-<a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="email"/></a>  
-<a href="https://twitter.com/yourtwitterprofile" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="twitter" /></a>  
+<a href="mailto:soumyadeepsai1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="email"/></a>  
+<a href="https://twitter.com/Chakravarti_x" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="twitter" /></a>  
 </p>
 
 ## 📂 Projects:  
