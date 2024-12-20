@@ -1,5 +1,3 @@
-Here’s the updated version of your GitHub profile with icons added for your technologies and tools:
-
 ---
 
 ## Hi there 👋  
@@ -69,5 +67,3 @@ Feel free to explore my repositories and get in touch if you want to collaborate
 Thanks for visiting my profile!
 
 ---
-
-This version includes icons for your tech stack, languages, and OS. Let me know if you'd like to update anything!
