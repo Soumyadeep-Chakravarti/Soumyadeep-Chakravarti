@@ -1,5 +1,3 @@
----
-
 ## Hi there 👋  
 # Hi there, I'm Soumyadeep Chakravarti! 👋
 
@@ -65,5 +63,3 @@ Welcome to my GitHub profile! I'm a passionate student at VIT with a keen intere
 Feel free to explore my repositories and get in touch if you want to collaborate on something interesting!
 
 Thanks for visiting my profile!
-
----
