@@ -55,10 +55,7 @@ Welcome to my GitHub profile! I'm a passionate student at VIT with a keen intere
 </p>
 
 ## 📂 Projects:  
-- [ObservableHorizon](https://github.com/Soumyadeep-Chakravarti/ObservableHorizon): A program used to fetch, parse, and store observable objects from NASA's Horizons system.  
-- [Project 1](https://github.com/Soumyadeep-Chakravarti/Project1): Brief description of Project 1  
-- [Project 2](https://github.com/Soumyadeep-Chakravarti/Project2): Brief description of Project 2  
-- [Project 3](https://github.com/Soumyadeep-Chakravarti/Project3): Brief description of Project 3  
+- [ObservableHorizon](https://github.com/Soumyadeep-Chakravarti/ObservableHorizon): A program used to fetch, parse, and store observable objects from NASA's Horizons system.   
 
 Feel free to explore my repositories and get in touch if you want to collaborate on something interesting!
 
