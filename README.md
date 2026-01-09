@@ -1,62 +1,127 @@
-## Hi there 👋  
-# Hi there, I'm Soumyadeep Chakravarti! 👋
 
-Welcome to my GitHub profile! I'm a passionate student at VIT with a keen interest in software development, open-source contributions, and continuous learning. Here's a bit about me:
+Hi, I’m Soumyadeep Chakravarti 👋
 
-## 🚀 About Me  
-- 🎓 I’m currently studying at VIT  
-- 🌱 I’m currently learning Rust.  
-- 👯 I’m looking to collaborate on projects based on automations  
-- 🤔 I’m looking for help with learning Rust  
-- 💬 Ask me about technologies like Python and Rust, my projects such as ObservableHorizon, or combining motorsport with data management.
-- ⚡ Fun fact: I’m combining my love for technology and motorsport by working on a Formula FB02 for speed racing while also diving into advanced data management!
+I’m an engineering student at VIT focused on systems programming, low-level tooling, and performance-oriented software. I enjoy building things close to the metal, understanding how systems work end-to-end, and designing clean architectures rather than relying on heavy abstractions.
 
-## 🛠️ Technologies & Tools:
-- **Tech Stack**:  
-  ![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)  
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
-  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)  
-  ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)  
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)  
-  ![ExLlama](https://img.shields.io/badge/-ExLlama-05122A?style=flat&logo=python)  
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)  
-  ![AioHTTP](https://img.shields.io/badge/-AioHTTP-05122A?style=flat&logo=python)  
-  ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  
-  ![Qdrant](https://img.shields.io/badge/-Qdrant-05122A?style=flat&logo=python)  
-  ![EmbedChain](https://img.shields.io/badge/-EmbedChain-05122A?style=flat&logo=python)  
-  ![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-05122A?style=flat&logo=python)  
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)  
-  ![Llama.cpp](https://img.shields.io/badge/-Llama.cpp-05122A?style=flat&logo=python)  
-  ![ExLlamaV2](https://img.shields.io/badge/-ExLlamaV2-05122A?style=flat&logo=python)  
-  ![Candle](https://img.shields.io/badge/-Candle-05122A?style=flat&logo=python)  
+Most of my work revolves around C, Rust, Linux, terminals, and infrastructure, with side explorations into AI systems and motorsport data.
 
-- **Languages**:  
-  ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)  
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)  
 
-- **OS**:  
-  ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=archlinux)  
-  ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)  
+---
 
-## 📈 GitHub Stats:  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadeep-Chakravarti&show_icons=true&theme=radical" alt="Soumyadeep's GitHub Stats" />  
+🚀 About Me
+
+🎓 Engineering student at VIT
+
+🧠 Strong interest in systems programming & internals
+
+🧰 I prefer C / Rust over high-level frameworks unless necessary
+
+🐧 Daily driver: Arch Linux
+
+🧪 I like rebuilding things from scratch to understand them properly
+
+⚡ Motorsport + tech nerd — interested in vehicle dynamics, telemetry, and simulation
+
+
+
+---
+
+🛠️ What I Actually Work On
+
+Systems & Low-Level
+
+C-based TUI framework
+Building a terminal UI library from scratch (Screen → Window → Component), inspired by tools like btop, with a clean architecture and zero heavy dependencies.
+
+CLI & terminal tooling
+Experimenting with shells, editors, and reusable CLI abstractions in C.
+
+
+Personal Assistant / AI Systems
+
+Jarvis (from scratch)
+A personal assistant rewritten multiple times with a focus on:
+
+Low-level implementation (C first, Python only when unavoidable)
+
+Clean module boundaries
+
+Direct integration with llama.cpp via the C API
+
+
+Exploring local LLM inference, memory systems, and efficient model serving without bloated stacks.
+
+
+Infrastructure & Linux
+
+Homelab & self-hosting
+
+Docker, reverse proxies, service isolation
+
+Music servers, file browsers, monitoring tools
+
+
+Strong interest in Linux internals, process models, and networking basics
+
+
+Simulation & Motorsport
+
+Experimenting with vehicle setup simulation, telemetry concepts, and engine behavior modeling (for sims, not real engines).
+
+Focused more on setup logic & data than graphics or tracks.
+
+
+
+---
+
+🧰 Tech Stack (Reality Edition)
+
+Languages
+
+   
+
+Systems / Tools
+
+   
+
+AI / Data (Selective, Low-Level)
+
+  
+
+
+---
+
+📂 Notable Projects
+
+Jarvis — Personal assistant built with a low-level, modular mindset
+
+C TUI Framework — Component-based terminal UI system in pure C
+
+ObservableHorizon — NASA Horizons data parser & storage tool
+
+Homelab Infrastructure — Self-hosted services, Dockerized and maintained manually
+
+
+(Several projects are intentionally experimental or rewritten often — learning > polish.)
+
+
+---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadeep-Chakravarti&show_icons=true&theme=radical" />
 </p>
+---
 
-## 🔗 Connect with Me:  
-<p align="left">  
-<a href="https://linkedin.com/in/soumyadeep-chakravarti-03237028a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="linkedin" /></a>  
-<a href="mailto:soumyadeepsai1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="email"/></a>  
-<a href="https://twitter.com/Chakravarti_x" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="twitter" /></a>  
+🔗 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/soumyadeep-chakravarti-03237028a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:soumyadeepsai1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
-
-## 📂 Projects:  
-- [ObservableHorizon](https://github.com/Soumyadeep-Chakravarti/ObservableHorizon): A program used to fetch, parse, and store observable objects from NASA's Horizons system.   
-
-Feel free to explore my repositories and get in touch if you want to collaborate on something interesting!
-
-Thanks for visiting my profile!
+.
