@@ -32,16 +32,8 @@ Engineering student at **VIT** focused on low-level systems, terminal-based arch
 
 ---
 
-### 🔗 Portfolio & Contact
+### Connect & Portfolio
 
-<p align="left">
-<a href="[https://resumewebsite-d.web.app/](https://resumewebsite-d.web.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=flat-square&logo=google-chrome&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit%2520Site-blueviolet%3Fstyle%3Dflat-square%26logo%3Dgoogle-chrome%26logoColor%3Dwhite)" />
-</a>
-<a href="[https://linkedin.com/in/soumyadeep-chakravarti-03237028a/](https://linkedin.com/in/soumyadeep-chakravarti-03237028a/)" target="_blank">
-<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite)" />
-</a>
-<a href="mailto:soumyadeepsai1@gmail.com">
-<img src="[https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact-red%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite)" />
-</a>
-</p>
+* **Portfolio:** [resumewebsite-d.web.app](https://resumewebsite-d.web.app/)
+* **LinkedIn:** [soumyadeep-chakravarti](https://linkedin.com/in/soumyadeep-chakravarti-03237028a/)
+* **Email:** [soumyadeepsai1@gmail.com](mailto:soumyadeepsai1@gmail.com)
