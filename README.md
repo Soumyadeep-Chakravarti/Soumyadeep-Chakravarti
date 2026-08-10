@@ -1,39 +1,98 @@
-# 🚀 Soumyadeep Chakravarti
+# Soumyadeep Chakravarti
 
-<p align="left">
-<img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Rust-000000%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
-<img src="[https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Arch_Linux-1793D1%3Fstyle%3Dfor-the-badge%26logo%3Darch-linux%26logoColor%3Dwhite)" />
+<p align="center">
+  <img src="ascii.svg" alt="ASCII portrait of Soumyadeep Chakravarti">
 </p>
 
-### Systems Engineering & Performance Tooling
+<p align="center">
+  <strong>BTech student · systems · AI · software</strong>
+</p>
 
-Engineering student at **VIT** focused on low-level systems, terminal-based architecture, and efficient software design. I prioritize native performance and modularity, working primarily in **Rust** and **C** within the **Linux** ecosystem.
+<p align="center">
+  <code>rust</code> <code>c</code> <code>python</code> <code>typescript</code>
+  <code>linux</code> <code>docker</code> <code>pytorch</code> <code>react</code>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Soumyadeep-Chakravarti">github</a> ·
+  <a href="https://www.linkedin.com/in/soumyadeep-chakravarti-03237028a/">linkedin</a> ·
+  <a href="mailto:soumyadeepsai1@gmail.com">email</a>
+</p>
 
-### 🛠️ Technical Proficiencies
+<img src="hd-about.svg" alt="About">
 
-| **Core Systems** | **Environment & Tools** | **Specialized** |
-| --- | --- | --- |
-| Rust (Async/FFI) | Arch Linux (Daily) | Local LLM Inference |
-| C (Memory Management) | Neovim & Tmux | Vehicle Dynamics |
-| Linux Internals / POSIX | Docker & Self-Hosting | Telemetry Systems |
-| C++ (llama.cpp) | Git / Makefile / Cargo | TUI Architecture |
+I like building things from the bottom up — understanding how they work,
+then turning that understanding into software.
 
----
+I'm currently studying Computer Science at **VIT Bhopal University**.
 
-### 📡 Technical Interests
+My interests sit somewhere between **systems programming, Linux, AI/ML,
+developer tooling, and experimental software**. I tend to prefer small,
+focused tools, local-first workflows, and software that gives me a reason
+to understand the machinery underneath it.
 
-* **Low-Level Tooling:** Building zero-dependency CLI/TUI frameworks and terminal utilities.
-* **AI Infrastructure:** Optimizing local model serving and direct C-API integrations for LLMs.
-* **Simulation:** Modeling telemetry and vehicle behavior through deterministic code.
+Currently exploring Rust, C, Python, Linux internals, local AI, and the
+general problem of making computers feel a little more programmable.
 
----
+<img src="hd-stack.svg" alt="Stack">
 
-### Connect & Portfolio
+`rust` `c` `python` `typescript` `javascript`
+`linux` `docker` `git` `pytorch` `react` `fastapi` `mongodb` `qdrant`
 
-* **Portfolio:** [resumewebsite-d.web.app](https://resumewebsite-d.web.app/)
-* **LinkedIn:** [soumyadeep-chakravarti](https://linkedin.com/in/soumyadeep-chakravarti-03237028a/)
-* **Email:** [soumyadeepsai1@gmail.com](mailto:soumyadeepsai1@gmail.com)
+I work mostly on Linux and prefer tools that can run locally.
+
+I care more about understanding a system than collecting abstractions
+around it.
+
+<img src="hd-projects.svg" alt="Projects">
+
+**[ENKI](https://github.com/Soumyadeep-Chakravarti/ENKI)** · `rust` `linux`
+
+A Linux-native gesture input system. ENKI turns camera-based hand tracking
+into an input layer, with gesture interpretation and event injection
+designed to eventually replace conventional mouse and keyboard interaction.
+
+**[BML](https://github.com/Soumyadeep-Chakravarti/bml)** · `c`
+
+A mathematics library written from scratch in C. It is an experimental
+foundation for vectors, matrices, geometry, expressions, and numerical
+operations — primarily built to understand the machinery rather than
+wrap an existing library.
+
+<img src="hd-stats.svg" alt="Stats">
+
+<p align="center">
+  <img src="stats.svg" alt="GitHub contribution statistics">
+</p>
+
+<p align="center">
+  <img src="streak.svg" alt="GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img src="langs.svg" alt="Programming languages by bytes and repositories">
+</p>
+
+<p align="center">
+  <img src="year.svg" alt="Contribution activity across the year">
+</p>
+
+<img src="hd-about-this-page.svg" alt="About this page">
+
+This profile is intentionally built without external stat-image services.
+
+The graphics are generated locally as SVGs. `ascii.svg` is produced from
+a portrait using `scripts/make_portrait.py`, while the contribution,
+streak, language, and year graphics are generated from the GitHub GraphQL
+API by `scripts/generate_stats.py`.
+
+A GitHub Actions workflow refreshes the statistics once a day and commits
+only when something actually changes.
+
+The graphics use embedded subsets of **JetBrains Mono** so their geometry
+doesn't depend on whatever font happens to be installed on the viewer's
+machine.
+
+The result is a profile that is mostly just a Git repository: no external
+stat-image service, no client-side JavaScript, and no dependency on a
+third-party endpoint remaining online.
