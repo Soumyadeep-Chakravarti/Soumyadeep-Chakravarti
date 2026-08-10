@@ -7,7 +7,13 @@ authors = [
     { name = "Soumyadeep Chakravarti", email = "soumyadeepsai1@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "numpy>=2.5.2",
+    "onnxruntime>=1.28.0",
+    "opencv-python-headless>=5.0.0.93",
+    "pillow>=12.3.0",
+    "rembg>=2.0.78",
+]
 
 [project.scripts]
 soumyadeep-chakravarti = "soumyadeep_chakravarti:main"
